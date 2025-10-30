@@ -1,0 +1,5 @@
+Model Hash: b2b7cbb92893c5c595806d436c29053bcfc25a7bf69adc39b1c64c39acda325b
+Model Type: Fast Man-Made Thermal Anomaly Detection
+Generated: 2025-10-26
+Detection Algorithm: Multi-threshold thermal signature analysis
+Total Anomalies Detected: 1749512
